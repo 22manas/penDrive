@@ -1,0 +1,35 @@
+[
+  {
+    "id": "83446fe9-b63e-4f37-9e2f-a2a54e423b62",
+    "name": "Quotezart",
+    "ram": "8 GB",
+    "camera": {
+      "front": "9mp",
+      "back": "46mp"
+    },
+    "price": 45853,
+    "battery": "4752mah"
+  },
+  {
+    "id": "1f3f0209-2161-41d8-99d7-5b7a35274a92",
+    "name": "Comtract",
+    "ram": "4 GB",
+    "camera": {
+      "front": "25mp",
+      "back": "21mp"
+    },
+    "price": 40583,
+    "battery": "4869mah"
+  },
+  {
+    "id": "747b1292-81c0-4b5b-a671-0f3120ca1c13",
+    "name": "Xymonk",
+    "ram": "6 GB",
+    "camera": {
+      "front": "9mp",
+      "back": "14mp"
+    },
+    "price": 3081,
+    "battery": "3009mah"
+  }
+]
